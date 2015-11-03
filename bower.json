@@ -1,0 +1,23 @@
+{
+  "name": "easyfont-roboto-mono",
+  "homepage": "https://github.com/easyfont/roboto-mono",
+  "authors": [
+    "kdawson133 <kdawson133@gmail.com>"
+  ],
+  "description": "Easy font roboto-mono",
+  "main": "roboto-mono.css",
+  "moduleType": [],
+  "keywords": [
+    "open",
+    "sans",
+    "font"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

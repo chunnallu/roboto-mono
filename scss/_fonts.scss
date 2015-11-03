@@ -1,0 +1,12 @@
+// font-family, style, weight, filename(no extension)
+
+@include font-face('Roboto Mono Thin', 'normal', '100', 'RobotoMono-Thin');
+@include font-face('Roboto Mono Thin Italic', 'italic', '100', 'RobotoMono-ThinItalic');
+@include font-face('Roboto Mono Light', 'normal', '300', 'RobotoMono-Light');
+@include font-face('Roboto Mono Light Italic', 'italic', '300', 'RobotoMono-LightItalic');
+@include font-face('Roboto Mono Regular', 'normal', '400', 'RobotoMono-Regular');
+@include font-face('Roboto Mono Italic', 'italic', '400', 'RobotoMono-Italic');
+@include font-face('Roboto Mono Medium', 'normal', '500', 'RobotoMono-Medium');
+@include font-face('Roboto Mono Medium Italic', 'italic', '500', 'RobotoMono-MediumItalic');
+@include font-face('Roboto Mono Bold', 'normal', '700', 'RobotoMono-Bold');
+@include font-face('Roboto Mono Bold Italic', 'italic', '700', 'RobotoMono-BoldItalic');
